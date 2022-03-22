@@ -6,8 +6,7 @@
 - Instructor: Ashlyn 
 -  assignment: DESIGN 270_a5 Protyped.
 
-
-
+- Protype: https://www.figma.com/proto/KocdNZJtLnRzgJCljvNkVZ/Product?node-id=9%3A4&scaling=contain&page-id=0%3A1&starting-point-node-id=9%3A4&show-proto-sidebar=1
 
 
 ## concept: 
